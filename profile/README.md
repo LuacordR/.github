@@ -6,8 +6,6 @@ Hey! This is where Vencord puts its other projects that aren't the main Vencord 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Iriscord/.github/main/assets/logo.png" width="120">
-
 ### Modern Discord Homebrew Ecosystem
 
 Minimal. Beautiful. Customizable.
