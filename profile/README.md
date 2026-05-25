@@ -1,4 +1,4 @@
-# Iriscord
+# Luacord
 
 <div align="center">
 
@@ -6,17 +6,17 @@
 
 Minimal. Beautiful. Customizable.
 
-[Themes](#) • [Plugins](#) • [GitHub](https://github.com/Iriscord)
+[Themes](#) • [Plugins](#) • [GitHub](https://github.com/Luacord)
 
 </div>
 
 ---
 
-## What is Iriscord?
+## What is Luacord?
 
-**Iriscord** is a modern open-source Discord homebrew ecosystem focused on customization, minimalism and user experience.
+**Luacord** is a modern open-source Discord homebrew ecosystem focused on customization, minimalism and user experience.
 
-Built for people who want more control over Discord, Iriscord allows the community to create and share:
+Built for people who want more control over Discord, Luacord allows the community to create and share:
 
 - 🎨 Beautiful Themes
 - ⚡ Powerful Plugins
@@ -24,13 +24,13 @@ Built for people who want more control over Discord, Iriscord allows the communi
 - 🌌 Minimal Experiences
 - 🔓 Open Source Tools
 
-Iriscord aims to feel native to Discord while expanding what users can do visually and functionally.
+Luacord aims to feel native to Discord while expanding what users can do visually and functionally.
 
 ---
 
 ## Philosophy
 
-Iriscord focuses on:
+Luacord focuses on:
 
 - Minimal and clean interfaces
 - Smooth animations and modern design
@@ -66,7 +66,7 @@ Everything is community-driven and publicly available on GitHub.
 
 ## Ecosystem
 
-Iriscord is designed as a growing ecosystem containing:
+Luacord is designed as a growing ecosystem containing:
 
 - Theme libraries
 - Plugin repositories
@@ -78,7 +78,7 @@ Iriscord is designed as a growing ecosystem containing:
 
 ## Community
 
-Iriscord is powered by designers, developers and Discord enthusiasts who love customization and open source software.
+Luacord is powered by designers, developers and Discord enthusiasts who love customization and open source software.
 
 We believe customization should feel:
 
@@ -92,13 +92,13 @@ We believe customization should feel:
 
 ## Vision
 
-The goal of Iriscord is to create the most polished and modern Discord customization ecosystem while keeping the experience lightweight and elegant.
+The goal of Luacord is to create the most polished and modern Discord customization ecosystem while keeping the experience lightweight and elegant.
 
 ---
 
 <div align="center">
 
-### Iriscord
+### Luacord
 
 Open Source Discord Customization
 
